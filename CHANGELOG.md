@@ -1,5 +1,10 @@
 # Change Log
 
+## Unreleased
+
+### Improvements
+- More response zooming via mouse wheel (#993)
+
 ## Version 0.19.3
 
 ### Features
